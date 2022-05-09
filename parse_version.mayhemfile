@@ -1,0 +1,5 @@
+project: semver
+target: parse_version
+
+cmds:
+  - cmd: /parse_version

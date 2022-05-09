@@ -1,0 +1,5 @@
+project: semver
+target: sort_version
+
+cmds:
+  - cmd: /sort_version
